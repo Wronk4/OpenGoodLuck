@@ -1,0 +1,4 @@
+﻿  Gl_template.cpp
+C:\Users\kacperwrona\Desktop\szescian — cpp\Gl_template.cpp(472,39): warning C4244: "=": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\kacperwrona\Desktop\szescian — cpp\Gl_template.cpp(473,39): warning C4244: "=": konwersja z "int" do "GLfloat", możliwa utrata danych
+  szescian.vcxproj -> C:\Users\kacperwrona\Desktop\szescian — cpp\x64\Debug\szescian.exe
